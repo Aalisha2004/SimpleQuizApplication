@@ -26,15 +26,12 @@ At the end of the quiz, the final score and correct answers are displayed.
 How to Run
 Compile the code:
 
-bash
-Copy
-Edit
+
 javac SimpleQuizApplication.java
 Run the application:
 
-bash
-Copy
-Edit
+
+
 java SimpleQuizApplication
 Example
 vbnet
